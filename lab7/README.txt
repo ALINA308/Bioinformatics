@@ -221,23 +221,4 @@ Multiple Genomes Analysis Plots:
     - Highest pattern repetition counts comparison
 
 
-PROJECT STRUCTURE
-----------
-lab7/
-  |-- dna_sequence.txt
-  |-- dna_repetition_detector.py
-  |-- repetition_analysis.txt
-  |-- repetition_frequency_plots.png
-  |-- analyze_influenza_genomes.py
-  |-- README.txt
-  |-- influenza_genomes/
-  |     |-- genome_1.txt
-  |     |-- genome_2.txt
-  |     |-- ... (genome_3 through genome_10)
-  |-- influenza_analysis_results/
-        |-- Genome_1_frequency_plot.png
-        |-- Genome_2_frequency_plot.png
-        |-- ... (plots for all 10 genomes)
-        |-- genomes_comparison_summary.png
 
-================================================================================
