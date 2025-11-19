@@ -1,0 +1,578 @@
+[
+  {
+    "genome_name": "Escherichia coli",
+    "genome_length": 4641652,
+    "total_inverted_repeats": 259781,
+    "stats": {
+      "6": 67825,
+      "5": 81588,
+      "4": 110368
+    },
+    "top_20": [
+      {
+        "left_start": 56,
+        "left_end": 61,
+        "right_start": 155,
+        "right_end": 160,
+        "sequence": "TGTCTG",
+        "length": 6,
+        "spacing": 93
+      },
+      {
+        "left_start": 78,
+        "left_end": 83,
+        "right_start": 133,
+        "right_end": 138,
+        "sequence": "TGGTTA",
+        "length": 6,
+        "spacing": 49
+      },
+      {
+        "left_start": 103,
+        "left_end": 108,
+        "right_start": 165,
+        "right_end": 170,
+        "sequence": "AATTTT",
+        "length": 6,
+        "spacing": 56
+      },
+      {
+        "left_start": 243,
+        "left_end": 248,
+        "right_start": 282,
+        "right_end": 287,
+        "sequence": "GGTGCG",
+        "length": 6,
+        "spacing": 33
+      },
+      {
+        "left_start": 272,
+        "left_end": 277,
+        "right_start": 305,
+        "right_end": 310,
+        "sequence": "GAAAAA",
+        "length": 6,
+        "spacing": 27
+      },
+      {
+        "left_start": 409,
+        "left_end": 414,
+        "right_start": 512,
+        "right_end": 517,
+        "sequence": "AAAGCA",
+        "length": 6,
+        "spacing": 97
+      },
+      {
+        "left_start": 425,
+        "left_end": 430,
+        "right_start": 449,
+        "right_end": 454,
+        "sequence": "GGGGCA",
+        "length": 6,
+        "spacing": 18
+      },
+      {
+        "left_start": 435,
+        "left_end": 440,
+        "right_start": 476,
+        "right_end": 481,
+        "sequence": "GCCACC",
+        "length": 6,
+        "spacing": 35
+      },
+      {
+        "left_start": 678,
+        "left_end": 683,
+        "right_start": 781,
+        "right_end": 786,
+        "sequence": "CCGGAT",
+        "length": 6,
+        "spacing": 97
+      },
+      {
+        "left_start": 710,
+        "left_end": 715,
+        "right_start": 727,
+        "right_end": 732,
+        "sequence": "TGGCGA",
+        "length": 6,
+        "spacing": 11
+      },
+      {
+        "left_start": 810,
+        "left_end": 815,
+        "right_start": 913,
+        "right_end": 918,
+        "sequence": "CATTAC",
+        "length": 6,
+        "spacing": 97
+      },
+      {
+        "left_start": 905,
+        "left_end": 910,
+        "right_start": 969,
+        "right_end": 974,
+        "sequence": "CACCGC",
+        "length": 6,
+        "spacing": 58
+      },
+      {
+        "left_start": 945,
+        "left_end": 950,
+        "right_start": 1000,
+        "right_end": 1005,
+        "sequence": "CGCAAC",
+        "length": 6,
+        "spacing": 49
+      },
+      {
+        "left_start": 1095,
+        "left_end": 1100,
+        "right_start": 1151,
+        "right_end": 1156,
+        "sequence": "GCGATG",
+        "length": 6,
+        "spacing": 50
+      },
+      {
+        "left_start": 1138,
+        "left_end": 1143,
+        "right_start": 1220,
+        "right_end": 1225,
+        "sequence": "GCACCA",
+        "length": 6,
+        "spacing": 76
+      },
+      {
+        "left_start": 1169,
+        "left_end": 1174,
+        "right_start": 1253,
+        "right_end": 1258,
+        "sequence": "CCCTTG",
+        "length": 6,
+        "spacing": 78
+      },
+      {
+        "left_start": 1191,
+        "left_end": 1196,
+        "right_start": 1260,
+        "right_end": 1265,
+        "sequence": "GGAAAT",
+        "length": 6,
+        "spacing": 63
+      },
+      {
+        "left_start": 1237,
+        "left_end": 1242,
+        "right_start": 1337,
+        "right_end": 1342,
+        "sequence": "AAGACG",
+        "length": 6,
+        "spacing": 94
+      },
+      {
+        "left_start": 1331,
+        "left_end": 1336,
+        "right_start": 1356,
+        "right_end": 1361,
+        "sequence": "GGCGCG",
+        "length": 6,
+        "spacing": 19
+      },
+      {
+        "left_start": 1392,
+        "left_end": 1397,
+        "right_start": 1460,
+        "right_end": 1465,
+        "sequence": "TCTTCC",
+        "length": 6,
+        "spacing": 62
+      }
+    ]
+  },
+  {
+    "genome_name": "Bacillus subtilis",
+    "genome_length": 4215606,
+    "total_inverted_repeats": 232794,
+    "stats": {
+      "6": 64323,
+      "5": 72203,
+      "4": 96268
+    },
+    "top_20": [
+      {
+        "left_start": 21,
+        "left_end": 26,
+        "right_start": 100,
+        "right_end": 105,
+        "sequence": "TATCCA",
+        "length": 6,
+        "spacing": 73
+      },
+      {
+        "left_start": 38,
+        "left_end": 43,
+        "right_start": 87,
+        "right_end": 92,
+        "sequence": "GACAAC",
+        "length": 6,
+        "spacing": 43
+      },
+      {
+        "left_start": 54,
+        "left_end": 59,
+        "right_start": 140,
+        "right_end": 145,
+        "sequence": "TACCAA",
+        "length": 6,
+        "spacing": 80
+      },
+      {
+        "left_start": 151,
+        "left_end": 156,
+        "right_start": 197,
+        "right_end": 202,
+        "sequence": "TTTGTG",
+        "length": 6,
+        "spacing": 40
+      },
+      {
+        "left_start": 204,
+        "left_end": 209,
+        "right_start": 251,
+        "right_end": 256,
+        "sequence": "TGTGGA",
+        "length": 6,
+        "spacing": 41
+      },
+      {
+        "left_start": 224,
+        "left_end": 229,
+        "right_start": 262,
+        "right_end": 267,
+        "sequence": "ATTTCA",
+        "length": 6,
+        "spacing": 32
+      },
+      {
+        "left_start": 377,
+        "left_end": 382,
+        "right_start": 412,
+        "right_end": 417,
+        "sequence": "ATTTTC",
+        "length": 6,
+        "spacing": 29
+      },
+      {
+        "left_start": 441,
+        "left_end": 446,
+        "right_start": 516,
+        "right_end": 521,
+        "sequence": "CCTTGC",
+        "length": 6,
+        "spacing": 69
+      },
+      {
+        "left_start": 533,
+        "left_end": 538,
+        "right_start": 590,
+        "right_end": 595,
+        "sequence": "CAATCA",
+        "length": 6,
+        "spacing": 51
+      },
+      {
+        "left_start": 648,
+        "left_end": 653,
+        "right_start": 666,
+        "right_end": 671,
+        "sequence": "TCCTCA",
+        "length": 6,
+        "spacing": 12
+      },
+      {
+        "left_start": 654,
+        "left_end": 659,
+        "right_start": 720,
+        "right_end": 725,
+        "sequence": "AAATCA",
+        "length": 6,
+        "spacing": 60
+      },
+      {
+        "left_start": 692,
+        "left_end": 697,
+        "right_start": 756,
+        "right_end": 761,
+        "sequence": "TCAAAA",
+        "length": 6,
+        "spacing": 58
+      },
+      {
+        "left_start": 802,
+        "left_end": 807,
+        "right_start": 819,
+        "right_end": 824,
+        "sequence": "GCTTCC",
+        "length": 6,
+        "spacing": 11
+      },
+      {
+        "left_start": 853,
+        "left_end": 858,
+        "right_start": 913,
+        "right_end": 918,
+        "sequence": "ATCTAT",
+        "length": 6,
+        "spacing": 54
+      },
+      {
+        "left_start": 942,
+        "left_end": 947,
+        "right_start": 990,
+        "right_end": 995,
+        "sequence": "TTATCT",
+        "length": 6,
+        "spacing": 42
+      },
+      {
+        "left_start": 975,
+        "left_end": 980,
+        "right_start": 1031,
+        "right_end": 1036,
+        "sequence": "CATCAA",
+        "length": 6,
+        "spacing": 50
+      },
+      {
+        "left_start": 982,
+        "left_end": 987,
+        "right_start": 1044,
+        "right_end": 1049,
+        "sequence": "TCTATC",
+        "length": 6,
+        "spacing": 56
+      },
+      {
+        "left_start": 1037,
+        "left_end": 1042,
+        "right_start": 1124,
+        "right_end": 1129,
+        "sequence": "TGCTTT",
+        "length": 6,
+        "spacing": 81
+      },
+      {
+        "left_start": 1090,
+        "left_end": 1095,
+        "right_start": 1166,
+        "right_end": 1171,
+        "sequence": "GAATTT",
+        "length": 6,
+        "spacing": 70
+      },
+      {
+        "left_start": 1143,
+        "left_end": 1148,
+        "right_start": 1177,
+        "right_end": 1182,
+        "sequence": "TTCAAG",
+        "length": 6,
+        "spacing": 28
+      }
+    ]
+  },
+  {
+    "genome_name": "Mycoplasma genitalium",
+    "genome_length": 580076,
+    "total_inverted_repeats": 33203,
+    "stats": {
+      "6": 12685,
+      "5": 9023,
+      "4": 11495
+    },
+    "top_20": [
+      {
+        "left_start": 8,
+        "left_end": 13,
+        "right_start": 77,
+        "right_end": 82,
+        "sequence": "TATTTA",
+        "length": 6,
+        "spacing": 63
+      },
+      {
+        "left_start": 15,
+        "left_end": 20,
+        "right_start": 34,
+        "right_end": 39,
+        "sequence": "TTAATA",
+        "length": 6,
+        "spacing": 13
+      },
+      {
+        "left_start": 22,
+        "left_end": 27,
+        "right_start": 45,
+        "right_end": 50,
+        "sequence": "TTTTAA",
+        "length": 6,
+        "spacing": 17
+      },
+      {
+        "left_start": 51,
+        "left_end": 56,
+        "right_start": 148,
+        "right_end": 153,
+        "sequence": "AATACT",
+        "length": 6,
+        "spacing": 91
+      },
+      {
+        "left_start": 57,
+        "left_end": 62,
+        "right_start": 123,
+        "right_end": 128,
+        "sequence": "ATTATA",
+        "length": 6,
+        "spacing": 60
+      },
+      {
+        "left_start": 63,
+        "left_end": 68,
+        "right_start": 136,
+        "right_end": 141,
+        "sequence": "GTATTT",
+        "length": 6,
+        "spacing": 67
+      },
+      {
+        "left_start": 100,
+        "left_end": 105,
+        "right_start": 175,
+        "right_end": 180,
+        "sequence": "AAATTA",
+        "length": 6,
+        "spacing": 69
+      },
+      {
+        "left_start": 115,
+        "left_end": 120,
+        "right_start": 214,
+        "right_end": 219,
+        "sequence": "AATACA",
+        "length": 6,
+        "spacing": 93
+      },
+      {
+        "left_start": 130,
+        "left_end": 135,
+        "right_start": 198,
+        "right_end": 203,
+        "sequence": "TTATTA",
+        "length": 6,
+        "spacing": 62
+      },
+      {
+        "left_start": 161,
+        "left_end": 166,
+        "right_start": 240,
+        "right_end": 245,
+        "sequence": "TATTAG",
+        "length": 6,
+        "spacing": 73
+      },
+      {
+        "left_start": 182,
+        "left_end": 187,
+        "right_start": 247,
+        "right_end": 252,
+        "sequence": "ATATTG",
+        "length": 6,
+        "spacing": 59
+      },
+      {
+        "left_start": 204,
+        "left_end": 209,
+        "right_start": 280,
+        "right_end": 285,
+        "sequence": "ATACTA",
+        "length": 6,
+        "spacing": 70
+      },
+      {
+        "left_start": 224,
+        "left_end": 229,
+        "right_start": 325,
+        "right_end": 330,
+        "sequence": "AAATAT",
+        "length": 6,
+        "spacing": 95
+      },
+      {
+        "left_start": 233,
+        "left_end": 238,
+        "right_start": 254,
+        "right_end": 259,
+        "sequence": "TGTAAT",
+        "length": 6,
+        "spacing": 15
+      },
+      {
+        "left_start": 300,
+        "left_end": 305,
+        "right_start": 350,
+        "right_end": 355,
+        "sequence": "ATAGTA",
+        "length": 6,
+        "spacing": 44
+      },
+      {
+        "left_start": 362,
+        "left_end": 367,
+        "right_start": 425,
+        "right_end": 430,
+        "sequence": "AATAAT",
+        "length": 6,
+        "spacing": 57
+      },
+      {
+        "left_start": 368,
+        "left_end": 373,
+        "right_start": 390,
+        "right_end": 395,
+        "sequence": "AAATAA",
+        "length": 6,
+        "spacing": 16
+      },
+      {
+        "left_start": 374,
+        "left_end": 379,
+        "right_start": 396,
+        "right_end": 401,
+        "sequence": "TCAGAT",
+        "length": 6,
+        "spacing": 16
+      },
+      {
+        "left_start": 403,
+        "left_end": 408,
+        "right_start": 449,
+        "right_end": 454,
+        "sequence": "ACATAT",
+        "length": 6,
+        "spacing": 40
+      },
+      {
+        "left_start": 437,
+        "left_end": 442,
+        "right_start": 526,
+        "right_end": 531,
+        "sequence": "AGTAAT",
+        "length": 6,
+        "spacing": 83
+      }
+    ]
+  }
+]

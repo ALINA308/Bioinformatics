@@ -1,0 +1,37 @@
+{
+  "sequence": "CAATAAACCACTCTGACTGGCCGAATAGGGATATAGGCAACGACATGTGCTATTCGGCCCTCTGACTCGGCGACCCTTGCGACAGTGACGCTTTCGCCGTTGCCTAAACCTATTGAAAGCGTCATGCGACAGTGAAGGAGTCTAGCAGCCGCAGTAAGGCACAATACCTCGTCCGTGTGCCTTACTGCTAGCAGCCTACCAGACCA",
+  "length": 206,
+  "transposons": [
+    {
+      "id": 1,
+      "start": 10,
+      "end": 66,
+      "length": 57,
+      "tsd": "CTCTGACT",
+      "tir": "GGCCGAATAG",
+      "tir_rc": "CTATTCGGCC",
+      "sequence": "CTCTGACTGGCCGAATAGGGATATAGGCAACGACATGTGCTATTCGGCCCTCTGACT"
+    },
+    {
+      "id": 2,
+      "start": 77,
+      "end": 131,
+      "length": 55,
+      "tsd": "TGCGACAG",
+      "tir": "TGACGCTTTC",
+      "tir_rc": "GAAAGCGTCA",
+      "sequence": "TGCGACAGTGACGCTTTCGCCGTTGCCTAAACCTATTGAAAGCGTCATGCGACAG"
+    },
+    {
+      "id": 3,
+      "start": 142,
+      "end": 195,
+      "length": 54,
+      "tsd": "TAGCAGCC",
+      "tir": "GCAGTAAGGC",
+      "tir_rc": "GCCTTACTGC",
+      "sequence": "TAGCAGCCGCAGTAAGGCACAATACCTCGTCCGTGTGCCTTACTGCTAGCAGCC"
+    }
+  ],
+  "num_transposons": 3
+}

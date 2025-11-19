@@ -1,0 +1,87 @@
+{
+  "sequence_length": 206,
+  "num_detected": 3,
+  "transposons": [
+    {
+      "start": 10,
+      "end": 66,
+      "length": 57,
+      "tir_left": "GGCCGAATAG",
+      "tir_right": "CTATTCGGCC",
+      "tir_length": 10,
+      "tir_left_pos": [
+        18,
+        27
+      ],
+      "tir_right_pos": [
+        49,
+        58
+      ],
+      "tsd": "CTCTGACT",
+      "tsd_length": 8,
+      "tsd_left_pos": [
+        10,
+        17
+      ],
+      "tsd_right_pos": [
+        59,
+        66
+      ],
+      "confidence": "high"
+    },
+    {
+      "start": 77,
+      "end": 131,
+      "length": 55,
+      "tir_left": "TGACGCTTT",
+      "tir_right": "AAAGCGTCA",
+      "tir_length": 9,
+      "tir_left_pos": [
+        85,
+        93
+      ],
+      "tir_right_pos": [
+        115,
+        123
+      ],
+      "tsd": "TGCGACAG",
+      "tsd_length": 8,
+      "tsd_left_pos": [
+        77,
+        84
+      ],
+      "tsd_right_pos": [
+        124,
+        131
+      ],
+      "confidence": "high"
+    },
+    {
+      "start": 142,
+      "end": 195,
+      "length": 54,
+      "tir_left": "GCAGTAAGG",
+      "tir_right": "CCTTACTGC",
+      "tir_length": 9,
+      "tir_left_pos": [
+        150,
+        158
+      ],
+      "tir_right_pos": [
+        179,
+        187
+      ],
+      "tsd": "TAGCAGCC",
+      "tsd_length": 8,
+      "tsd_left_pos": [
+        142,
+        149
+      ],
+      "tsd_right_pos": [
+        188,
+        195
+      ],
+      "confidence": "high"
+    }
+  ]
+}
