@@ -1,0 +1,67 @@
+[
+  {
+    "chunk_index": 0,
+    "seq1_start": 0,
+    "seq1_end": 500,
+    "seq2_align_start": 17920,
+    "seq2_align_end": 18427,
+    "alignment_score": 282,
+    "alignment_length": 543,
+    "matches": 302,
+    "identity_percentage": 55.61694290976059,
+    "aligned_seq1_preview": "ATGAAGGCAATACTAGTAGTTCTGCTA--TATACATTTGCA-ACCG-CAAATGCAGACACATTATGTATAGGTT---A--T-CATG-CGAACAATTCAAC...",
+    "aligned_seq2_preview": "ATGTTGCTATTACCAG-AGCAAAAGTAGGCATAC-TTTGCATAATGTCTGATAGAGAC-CTTTATG-ACAAGTTGCAATTTACAAGTCTTGAAATTCCAC..."
+  },
+  {
+    "chunk_index": 1,
+    "seq1_start": 400,
+    "seq1_end": 900,
+    "seq2_align_start": 16921,
+    "seq2_align_end": 17453,
+    "alignment_score": 274,
+    "alignment_length": 556,
+    "matches": 306,
+    "identity_percentage": 55.03597122302158,
+    "aligned_seq1_preview": "CA-AGACAAGTTCATGGCCCAATCA-TGACTCGAACAAAGGTG-TA-ACG-GCAGCATGTCCTCA-TGCTGGAGCAAAAAGCTTCTAC-AAAAATTTAAT...",
+    "aligned_seq2_preview": "CACATAC-AG-TAAT-G-CCATTAAGTG-CACCTACACTAGTGCCACAAGAGCACTATGTTAGAATTACT-G-GCTTATACCCAACACTCAATATCTCAG..."
+  },
+  {
+    "chunk_index": 2,
+    "seq1_start": 800,
+    "seq1_end": 1300,
+    "seq2_align_start": 18944,
+    "seq2_align_end": 19460,
+    "alignment_score": 267,
+    "alignment_length": 549,
+    "matches": 301,
+    "identity_percentage": 54.826958105646625,
+    "aligned_seq1_preview": "ACCGAGATATGCATTC-GC-AATGGAAA-G--AAATGC-TGGATCTGGT-ATTAT-CATT-TCAG-ATACACCAGTCCACGAT-TGCAATACAACTTGTC...",
+    "aligned_seq2_preview": "ACTGA-AGATTAATGCGGCTTGTAGAAAGGTTCAACACATGG-T-TGTTAAAGCTGCATTATTAGCAGACA-AATTCCCAGTTCTTCACGAC-A-TTG-G..."
+  },
+  {
+    "chunk_index": 3,
+    "seq1_start": 1200,
+    "seq1_end": 1700,
+    "seq2_align_start": 20430,
+    "seq2_align_end": 20994,
+    "alignment_score": 288,
+    "alignment_length": 578,
+    "matches": 322,
+    "identity_percentage": 55.70934256055363,
+    "aligned_seq1_preview": "ATGAATA-CACAGTTCACAGC-AGTAGGTAA-AGA-GTTCAACCACCTGGAAAAAAGAAT-AGAG-AAT-TTA--AATAAAAAAGTTGATGATGGTTTCC...",
+    "aligned_seq2_preview": "ATGGACAGTACAGTTAAAAACTATTTCATAACAGATGCGCAAACAGGTTCATCTAAGTGTGTGTGTTCTGTTATTGATTTATTACTTGATGAT--TTT-G..."
+  },
+  {
+    "chunk_index": 4,
+    "seq1_start": 1600,
+    "seq1_end": 1701,
+    "seq2_align_start": 9194,
+    "seq2_align_end": 9285,
+    "alignment_score": 78,
+    "alignment_length": 104,
+    "matches": 67,
+    "identity_percentage": 64.42307692307693,
+    "aligned_seq1_preview": "CAACTGTCGCCAGTTCATTGGTACTGGTAGTCTC--C-CTGGGGGCA-ATCAGTTTCTGGATGTGCTCTAATGGGTCTCTAC-AGT-GTAGAATATGTAT...",
+    "aligned_seq2_preview": "CAACTTTTG--A-TTC-TGAGTACT-GTAGGCACGGCACTTGTGAAAGATCAGAAGCT-G--GTG-T-T--TGTGTATCTACTAGTGGTAG-ATGGGTAC..."
+  }
+]
